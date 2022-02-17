@@ -60,22 +60,47 @@
 - type: webfuzz
   options:
     url: 
+    
+- type: webfuzzsub
+  options:
+    url: https://raw.githubusercontent.com/du5/free/master/sub.list
+    
+- type: webfuzz
+  options:
+    url: https://merlinblog.xyz/wiki/freess.html
 
 # tg频道抓取
 - type: tgchannel
   options:
-    channel: 
+    channel: ShareCentrePro
+    num: 200
+    
+- type: tgchannel
+  options:
+    channel: ShareCentre
     num: 200
 
 # 翻墙党论坛抓取
 - type: web-fanqiangdang
   options:
-    url: 
-
+    url: https://shadowsocksr.fanqiangdang.com/
+    
+- type: web-fanqiangdang
+  options:
+    url: https://shadowsocks.fanqiangdang.com/
+    
+- type: web-fanqiangdang
+  options:
+    url: https://v2ray.fanqiangdang.com/
+    
+- type: web-fanqiangdang
+  options:
+    url: https://trojan.fanqiangdang.com/
+    
 # clash格式订阅链接
 - type: clash
   options:
-    url: https://raw.githubusercontent.com/MambaOutZY/FreeVmessSUB/main/v2ray.txt
+    url: https://raw.githubusercontent.com/MambaOutZY/FreeVmessSUB/main/ss.txt
 
 - type: clash
   options:
