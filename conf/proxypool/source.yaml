@@ -105,6 +105,34 @@
 - type: clash
   options:
     url: https://raw.githubusercontent.com/MambaOutZY/FreeVmessSUB/main/trojan.txt
+    
+- type: clash
+  options:
+    url: https://gfwglass.tk/clash/proxies?c=all
+    
+- type: clash
+  options:
+    url: https://fq.lonxin.net/clash/proxies?c=all
+    
+- type: clash
+  options:
+    url: https://proxy.leefake.xyz/clash/proxies?c=all
+    
+- type: clash
+  options:
+    url: https://free.kingfu.cf/clash/proxies?c=all
+    
+- type: clash
+  options:
+    url: https://sspool.herokuapp.com/clash/proxies?c=all
+    
+- type: clash
+  options:
+    url: https://ss.si4.cc/clash/proxies?c=all
+    
+- type: clash
+  options:
+    url: https://proxies.bihai.cf/clash/proxies?c=all
 
 # 某个网站抓取
 - type: web-freessrxyz
